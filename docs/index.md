@@ -31,3 +31,9 @@ Debate is encouraged over translations via GitHub Issues, and contributions via 
 [Anturiaethau Sherlock Holmes](https://github.com/mwyolyfrau/AnturiaethauSherlockHolmes)
 
 [Winnie y Pŵ](https://github.com/mwyolyfrau/WinnieYPw)
+
+### Join the discussion!
+
+<a href="https://toot.wales/@mwyolyfrau" rel="me">We're on Mastodon!</a>
+
+You can also use our [Discussion Forums](https://github.com/orgs/mwyolyfrau/discussions) over at Github.
