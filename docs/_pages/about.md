@@ -36,31 +36,33 @@ I still hadn't resolved what was nagging at me, clearly.
 
 Finally, I went to visit Aberfan, on a snowy valleys day, and that's where I figured it out.
 
-Being Welsh is not something you automatically lose on going through passport control, but you _do_ lost of over time. And you can't get it back by bulk-buying laverbread and getting a tattoo before jetting back to somewhere entirely other. It's something you slowly lose by degrees as your links to the culture slowly decay and you need to _actively_ work to bring it back.
+Being Welsh is not something you automatically lose on going through passport control, but you _do_ lose it over time. And you can't get it back by bulk-buying laverbread and getting a tattoo before jetting back to somewhere entirely other. It's something you slowly lose by degrees as your links to the culture slowly decay and you need to _actively_ work to bring it back.
 
-There was clearly some kind of metaphor in the decay of my old childhood home. I'd moved to an Airbnb due to the dust and mould in the old place. Coming back to my accommodation a little misty-eyed, I made an important decision.
+There was clearly some kind of metaphor in the decay of my old childhood home. 
+
+I'd moved to an Airbnb due to the dust and mould in the old place. Coming back from Aberfan to my accommodation a little misty-eyed, I made an important decision.
 
 #### The Plan
 
-I was going to re-learn Welsh. And not just to the secondary-school-in-the-1980s-can't-really-hold-a-conversation level I'd got to before, but properly.
+_I was going to learn - or I guess partly re-learn - Welsh_. And not just to the I-went-to-secondary-school-in-the-1980s-so-I-can't-really-hold-a-conversation level I'd got to before, but **properly**.
 
-*Step 1:* Online Learning. I started with Duolingo. I devoured the course inside six months, and old vocabulary has slowly returned, along with a lot of new terminology. When I'd last learned Welsh, the internet was barely a glimmer, mobile phones were briefcase-sized boondoggles rarely seen. I also added Clozemaster and Glossika into the mix. When I have some downtime, I have an embarrassment of riches in learning and practice apps.
+*Step 1:* Online Learning. I started with Duolingo. I devoured the course inside six months, and old vocabulary has slowly returned, along with a lot of new terminology. When I'd last learned Welsh, the internet was barely a glimmer, mobile phones were briefcase-sized boondoggles rarely seen, and that wasn't the half of it. I also added Clozemaster and Glossika into the mix. When I have some downtime these days, I have an embarrassment of riches in learning and practice apps.
 
-*Step 2:* Find an online community where I can get exposed to novel vocabulary and maybe converse at a manageable pace. Mastodon's #dysgucymraeg hashtag has been a firm friend in this process.
+*Step 2:* Find an online community where I can get exposed to novel vocabulary and maybe converse at a manageable pace. Mastodon's [#dysgucymraeg](https://toot.wales/deck/tags/dysgucymraeg) hashtag has been a firm friend in this process.
 
-*Step 3:* Fire up S4C Clic and get immersed. From being fairly lost, I'm now a regular viewer and the amount of times I need to pause or rewind is dropping. 
+*Step 3:* Fire up [S4C Clic](https://www.s4c.cymru/clic/) and get immersed. From starting out fairly lost, I'm now a regular viewer and the amount of times I need to pause or rewind is dropping. And I delight in episodes of Sam Tân, despite being an actual grown adult.
 
-*Step 4:* Podcasts and Radio. Radio Cymru has some, and there's a tiny but dedicated cohort of podcasts around. I listen while walking my dogs, and find myself quietly chatting to them in Welsh here and there.
+*Step 4:* Podcasts and Radio. [Radio Cymru has some](https://www.bbc.co.uk/podcasts/cymru), and there's a tiny but dedicated cohort of podcasts around. I listen while walking my dogs, and find myself quietly chatting to them in Welsh here and there.
 
-*Step 5:* Buy books. Lots of books. I've always been a book person. I started building a Welsh library pretty quickly, including a modern dictionary, several short books on grammar, lots of kids' books, some novelty learners' books, Stephen Rule's excellent "Owls and Parsnips" series, one Terry Pratchett Novel and a copy of Dan y Wenallt, in both book and Blu-Ray form.
+*Step 5:* Buy books. Lots of books. I've always been a book person. I started building a Welsh library pretty quickly, including a modern dictionary, several short books on grammar, lots of kids' books, some novelty learners' books, Stephen Rule's excellent ["Parsnips and Owls"](https://www.amazon.co.uk/Parsnips-Owls-stories-Duolingos-Stories/dp/B0B5G63PKX) series, [one Terry Pratchett novel](https://cy.wikipedia.org/wiki/Lleidr_Amser) and a copy of [Dan y Wenallt](https://www.amazon.com.au/Dan-y-Wenallt-Dylan-Thomas/dp/1848518102), both as a book and as a Blu-Ray of the superb 2015 film adaptation.
 
 And there, in trying to build a small library, is where Mwy o Lyfrau started.
 
 #### Wales Needs Books
 
-I was casting round for books in Welsh, books I'd enjoy, books that would engage me, books that would expand my vocabulary and my agility with the language. Books that, hopefully, I knew a little of already. In particular, I hoped that someone had done the work to translate the Sherlock Holmes canon, or at least part of it. I found one translation of The Speckled Band, but the rest were not there.
+I was casting round for books in Welsh, books I'd enjoy, books that would engage me, books that would expand my vocabulary and my agility with the language. Books that, hopefully, I knew a little of already. In particular, I hoped that someone had done the work to translate the Sherlock Holmes canon, or at least part of it. I found one translation of [The Speckled Band](https://cy.wikipedia.org/wiki/Y_Cylch_Brith), but the rest were not there.
 
-Well, why not explore how hard it is to translate one? Most of the canon is short stories, they're all very engaging and I know their English versions inside-out. It'd expand my vocabulary, if nothing else. _Anyway, how hard could it be?_ This thought nagged at me constantly.
+Well! (I thought) why not explore how hard it is to translate one? Most of the canon is short stories, they're all very engaging and I know their English versions inside-out. It'd expand my vocabulary, if nothing else. _Anyway, how hard could it be?_ This thought nagged at me constantly.
 
 I have a background in Software Development and delivery, and it occured to me that the methods we use to collaboratively build software could also serve a distributed effort to translate classic books into Cymraeg. Taking a technological but moderated approach using tools like Google Translate, mixing that with the GitHub distributed source control platform, add in some volunteers willing to spend a few hours here and there translating or reviewing a few lines, a paragraph, a chapter or maybe a whole book... It seemed possible.
 
