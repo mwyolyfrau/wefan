@@ -1,4 +1,8 @@
-# Mwy o Lyfrau
+---
+layout: home
+title: Mwy o Lyfrau
+permalink: /
+---
 
 Croeso / Welcome
 
