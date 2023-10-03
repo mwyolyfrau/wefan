@@ -14,4 +14,4 @@ date: 2023-10-2
 
 - [Google Translate API](https://cloud.google.com/translate/docs/reference/rest/)
 
-- [Mwy o Lyfrau ar Mastodon](https://toot.wales/mwyolyfrau)
+- [Mwy o Lyfrau ar Mastodon](https://toot.wales/@mwyolyfrau)
