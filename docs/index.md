@@ -28,9 +28,11 @@ Debate is encouraged over translations via GitHub Issues, and contributions via 
 
 ### What are we working on right now?
 
-[Anturiaethau Sherlock Holmes](https://github.com/mwyolyfrau/AnturiaethauSherlockHolmes)
+[Anturiaethau Sherlock Holmes](https://github.com/mwyolyfrau/AnturiaethauSherlockHolmes "The Adventures of Sherlock Holmes by Arthur Conan Doyle")
 
-[Winnie y Pŵ](https://github.com/mwyolyfrau/WinnieYPw)
+[Winnie y Pŵ](https://github.com/mwyolyfrau/WinnieYPw "Winnie The Pooh by A. A. Milne")
+
+[Fatec](https://github.com/mwolyfrau/Fatec "Vathek by William Beckford")
 
 ### Join the discussion!
 
